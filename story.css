@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 18px;
+    text-align: justify;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    background: linear-gradient(to right, #bbb8b8, #bfe9ff);
+}
+
+p:hover {
+    color: blue;
+    font-weight: bold;
+}
+
+#hotpotpics {
+    display: flex;
+    justify-content: space-evenly;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+body {
+    background: linear-gradient(to right, #bbb8b8, #bfe9ff);
+}
