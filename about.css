@@ -73,3 +73,6 @@ li:hover {
   color: blue;
   font-weight: bold;
 }
+#bulletpoint{
+  list-style-type: disc;
+}
