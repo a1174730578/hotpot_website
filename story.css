@@ -28,3 +28,8 @@ p:hover {
 body {
     background: linear-gradient(to right, #bbb8b8, #bfe9ff);
 }
+
+*{
+  font-style: italic;
+
+}
